@@ -29,7 +29,7 @@ This **Tableau Analytics Dashboard** provides a detailed examination of student 
 ##  Dashboard Preview
 
 ![Student Lifestyle Dashboard]
-<a href="https://github.com/owaiskhan2533/Student-Lifestyle-Academic-Stress-Tableau/blob/main/Screenshot%202026-09-30%20195232.png">Dashboard</a>
+<a href="https://github.com/owaiskhan2533/Student-Lifestyle-Academic-Stress-Tableau/blob/main/Screenshot%202026-10-16%20220005.png">Dashboard</a>
 
 ---
 
